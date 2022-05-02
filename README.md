@@ -4,4 +4,4 @@ Učební praxe třetí ročník informatiků
 Jak nastavit repozitář?
 git clone
 
-csccs
+Krystof kuchar
