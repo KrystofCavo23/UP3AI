@@ -3,10 +3,6 @@ Učební praxe třetí ročník informatiků
 
 Jak nastavit repozitář?
 git clone
-<<<<<<< HEAD
-
-Krystof kuchar
-=======
 test
 
 
@@ -19,4 +15,3 @@ test
     git config --global user.email "MY_NAME@example.com"
 
 Další commit
->>>>>>> e5324728a6a20738df5f3fc67f4eb4945f29c950
